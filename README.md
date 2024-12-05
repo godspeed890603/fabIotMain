@@ -6,11 +6,10 @@ https://www.facebook.com/photo.php?fbid=10211965113081679&set=pb.1788131020.-220
 ## 架構說明
 1.採用ESP8266與廠內無線網路。</br></br>
 2.採用光耦合器取代繼電器，待系統完全初始化結束，觸發光耦合器讓動力電壓進入系統
-2.因為是移動式設備，當使Wifi強度無法使系統正常傳遞資料，將會斷線重新連線，維持正常資料收集</br></br>
-3.電壓收集部分有當輔導高中多元學習的資料，有針對ADC讀取做資料，利用EXCEL趨勢線作校正</br></br>
-4.https://github.com/godspeed890603/fabIotMain/blob/master/data/f.txt</br></br>
-
-
-
+3.因為是移動式設備，當使Wifi強度無法使系統正常傳遞資料，將會斷線重新連線，維持正常資料收集</br></br>
+4.電壓收集部分有當輔導高中多元學習的資料，有針對ADC讀取做資料，利用EXCEL趨勢線作校正</br></br>
+https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/BksLYWwys</br></br>
+5.透過https://github.com/godspeed890603/fabIotMain/blob/master/data/f.txt設定，可以支援設定檔中的感應器</br></br>
+Dht(1 Wwire)、Noise(BZY)、Gyro(mpu6050/i2c)，Volt(adc)、Pms(pms5003/uart)、SHTXX(Sht31/i2c)
 ## 成果
-https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/BksLYWwys
+
