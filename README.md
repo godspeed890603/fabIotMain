@@ -12,4 +12,5 @@ https://hackmd.io/@PIahL8k2RMKl1pUj4lRpCA/BksLYWwys</br></br>
 5.透過https://github.com/godspeed890603/fabIotMain/blob/master/data/f.txt設定，可以支援設定檔中的感應器</br></br>
 Dht(1 Wwire)、Noise(BZY)、Gyro(mpu6050/i2c)，Volt(adc)、Pms(pms5003/uart)、SHTXX(Sht31/i2c)
 ## 成果
-https://github.com/godspeed890603/fabIotMain/tree/master/result
+https://github.com/godspeed890603/fabIotMain/blob/master/result/thm_volt.jpg</br></br>
+https://github.com/godspeed890603/fabIotMain/tree/master/result</br></br>
